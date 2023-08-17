@@ -7,3 +7,6 @@ This repository is built step by step in the tutorial.
 lets make the codes of the changes to the dirctly
 
 ,lets start the batman
+
+today is a Thursday and we work on new projects 
+
